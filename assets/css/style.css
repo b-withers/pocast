@@ -1,0 +1,33 @@
+li {
+	font-size: 1.5rem;
+	list-style: none;
+}
+
+.button-solid {
+	background-color: #0882bd;
+	border-color: #0882bd;
+	font-size: .95rem;
+	color: white;
+	border-radius: 25px;
+	outline: none;
+	width: 315px;
+	height: 40px;
+}
+
+.button-solid:hover {
+	background-color: white;
+	color: #0882bd;
+	border-color: #0882bd;
+	box-shadow: 2px 2px 4px rgb(59, 59, 59);
+	border-radius: 25px;
+	outline: none;
+}
+
+.track-style{
+		font-weight: bolder;
+		color: #0882bd;
+}
+
+audio{
+		height: 40px;
+}
